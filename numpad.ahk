@@ -15,4 +15,9 @@ NumpadClear::#Tab
 NumpadRight::#^Right
 NumpadEnter::#Tab
 
+; Shortcuts
+NumpadDiv::#. ; Emoji keyboard
+NumpadMult::#r ; Run command
+NumpadSub::#s ; Search
+
 return
